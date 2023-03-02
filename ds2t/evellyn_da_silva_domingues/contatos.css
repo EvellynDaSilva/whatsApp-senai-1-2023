@@ -1,0 +1,17 @@
+.contato{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0px;
+    gap: 5px;
+    /* list-style-type: none; */
+
+}
+.fotos{
+    display: flex;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+
+}

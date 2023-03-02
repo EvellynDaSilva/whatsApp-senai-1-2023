@@ -1,0 +1,7 @@
+body{
+    background-color: black;
+    display: grid;
+    background-size: cover;
+ 
+    /* top: 5000px; */
+}
